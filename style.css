@@ -6,10 +6,22 @@ body {
 #header {
   height: 50px;
   border-bottom: 3px solid rgb(75, 73, 73);
+  
 }
 
 #title {
   color: grey;
   font-size: 14px;
   padding: 10px;
+}
+
+#button {
+  background-color: rgb(38, 107, 197);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
