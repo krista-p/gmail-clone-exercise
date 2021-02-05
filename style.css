@@ -26,3 +26,10 @@ body {
   font-size: 16px;
   position: absolute;
 }
+
+#first {
+  text-align: center;
+  height: 50%;
+  width: 100%;
+  background-color: rgb(185, 185, 185);
+}
