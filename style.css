@@ -6,9 +6,10 @@ body {
 #header {
   height: 50px;
   border-bottom: 3px solid rgb(75, 73, 73);
-  font-size: 14px;
 }
 
 #title {
   color: grey;
+  font-size: 14px;
+  padding: 10px;
 }
