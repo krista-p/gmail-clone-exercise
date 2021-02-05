@@ -24,4 +24,5 @@ body {
   text-decoration: none;
   display: inline;
   font-size: 16px;
+  position: absolute;
 }
